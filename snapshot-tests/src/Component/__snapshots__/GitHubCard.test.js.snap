@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    alt="Famouse Female Scientist"
+    className="card-img-top "
+    src="{PretendMe}"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+       Gia Madonna 
+    </div>
+    <div
+      className="mb-2 text-muted card-subtitle h6"
+    >
+       Rookie Software Developer 
+    </div>
+    <p
+      className="card-text"
+    >
+      Hi! My name is Gia Madonna and I am pursuing a career in Software Development. Currently a cook at Chili's, I am looking to set off in an expanding job force such as coding to provide financial stability for my future life.
+    </p>
+    <a
+      className="card-link"
+      href="https://github.com/GiaMadonna1"
+    >
+       Find me on Github Here! 
+    </a>
+  </div>
+</div>
+`;
